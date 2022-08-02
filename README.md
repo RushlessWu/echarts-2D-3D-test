@@ -4,11 +4,11 @@
 
 3D效果图:
 
-![image-20220802161035455](C:\Users\Erwin\AppData\Roaming\Typora\typora-user-images\image-20220802161035455.png)
+![3D效果图](.\src\assets\3D.png)
 
 2D效果图:
 
-![image-20220802161058666](C:\Users\Erwin\AppData\Roaming\Typora\typora-user-images\image-20220802161058666.png)
+![2D效果图](.\src\assets\2D.png)
 
 ## Project setup
 ```
